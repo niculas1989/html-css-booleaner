@@ -1,7 +1,12 @@
 header {
     background-color: lightskyblue;
+    text-align: bottom left;
 }
+
+
 
 #logo {
     background-image: url(../img/pattern.png);
+    background-size: 100px 30px;
+    height: 150px;
 }
