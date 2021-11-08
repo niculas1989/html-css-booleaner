@@ -1,7 +1,4 @@
-body{
-    width: 1080px;
-    margin: auto;
-}
+
 header {
     margin-top: 0;
     margin-left: 0;
@@ -15,7 +12,7 @@ header {
 }
 
 .size {
-    height: 400px;
+    height: 230px;
     width: 250px;
 }
 
@@ -25,4 +22,17 @@ header {
 
 #background-yellow {
     background-color: yellow;
+}
+
+#title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#celeste {
+    color: lightblue;
+}
+
+#grigio {
+    color: gray;
 }
