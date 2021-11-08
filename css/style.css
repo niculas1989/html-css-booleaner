@@ -1,12 +1,17 @@
 header {
+    margin-top: 0;
+    margin-left: 0;
     background-color: lightskyblue;
-    text-align: bottom left;
 }
-
 
 
 #logo {
     background-image: url(../img/pattern.png);
-    background-size: 100px 30px;
+    background-size: 400px 200px;
     height: 150px;
+}
+
+.size {
+    height: 400px;
+    width: 250px;
 }
