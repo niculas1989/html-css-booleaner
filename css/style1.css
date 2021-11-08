@@ -1,4 +1,4 @@
-body {
+main {
     width: 1080px;
     margin: 0 auto;
 }
@@ -14,11 +14,13 @@ header {
     background-image: url(../img/pattern.png);
     background-size: 400px 200px;
     height: 150px;
+    width: 2500px;
 }
 
 .size {
     height: 230px;
     width: 250px;
+    text-align: center;
 }
 
 .tim {
