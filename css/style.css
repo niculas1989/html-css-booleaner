@@ -36,3 +36,32 @@ header {
 #grigio {
     color: gray;
 }
+
+figcaption {
+    font-style: italic;
+    font-size: 12px;
+}
+
+thead {
+    background-color: rgb(24, 126, 209);
+    color: white;
+}
+
+#prima {
+    height: 10px;
+    width: 25%;
+}
+
+#seconda {
+    height: 10px;
+    width: 25%;
+}
+
+#terza {
+    height: 10px;
+    width: 50%;
+}
+
+#sfondo-celeste {
+    background-color: lightblue;
+}
